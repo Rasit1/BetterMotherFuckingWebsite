@@ -1,7 +1,11 @@
-body{margin:60px;
+body{margin:80px;
          auto;max-width:650px;line-height:1.6;font-size:18px;color:#444;padding:0
          10px}h1,h2,h3{line-height:1.2}
          
+         h1{
+        color: red;
+            }          
+/* Popup box BEGIN */
 .hover_bkgr_fricc{
     background:rgba(0,0,0,.4);
     cursor:pointer;
@@ -57,3 +61,5 @@ body{margin:60px;
     margin: 20px;
     display: inline-block;
     font-weight: bold;
+}
+/* Popup box BEGIN */
